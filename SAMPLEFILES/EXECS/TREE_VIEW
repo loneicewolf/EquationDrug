@@ -1,0 +1,61 @@
+DoubleFeatureDll.dll.unfinalized: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+DuplicateToken_Implant.dll:       PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+DuplicateToken_Lp.dll:            PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+DXGHLP16.SYS:                     PE32 executable (native) Intel 80386 (stripped to external PDB), for MS Windows
+EventLogEdit_Implant.dll:         PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+EventLogEdit_Lp.dll:              PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+GetAdmin_Implant.dll:             PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+GetAdmin_Lp.dll:                  PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+kill_Implant9x.dll:               PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+kill_Implant.dll:                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+LSADUMP_Implant.dll:              PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+LSADUMP_Lp.dll:                   PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+modifyAudit_Implant.dll:          PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+modifyAudit_Lp.dll:               PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+modifyAuthentication_Implant.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+modifyAuthentication_Lp.dll:      PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ModifyGroup_Implant.dll:          PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ModifyGroup_Lp.dll:               PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ModifyPrivilege_Implant.dll:      PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ModifyPrivilege_Lp.dll:           PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+msgkd.ex_:                        PE32 executable (GUI) Intel 80386, for MS Windows
+msgki.ex_:                        PE32 executable (GUI) Intel 80386, for MS Windows
+msgks.ex_:                        PE32 executable (GUI) Intel 80386, for MS Windows
+msgku.ex_:                        PE32 executable (GUI) Intel 80386, for MS Windows
+mssld.dll:                        PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+msslu.dll:                        PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+mstcp32.sys:                      PE32 executable (native) Intel 80386 (stripped to external PDB), for MS Windows
+nethide_Implant.dll:              PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+nethide_Lp.dll:                   PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ntevt.sys:                        PE32 executable (console) Intel 80386, for MS Windows
+ntevtx64.sys:                     PE32+ executable (console) x86-64, for MS Windows
+ntfltmgr.sys:                     PE32 executable (native) Intel 80386, for MS Windows
+PassFreely_Implant.dll:           PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PassFreely_Lp.dll:                PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PC_Legacy_dll:                    PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PC_Level3_dll:                    PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PC_Level3_dll_x64:                PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+PC_Level3_flav_dll:               PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PC_Level3_flav_dll_x64:           PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+PC_Level3_http_dll:               PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PC_Level3_http_dll_x64:           PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+PC_Level3_http_flav_dll:          PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PC_Level3_http_flav_dll_x64:      PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+PC_Level4_flav_dll:               PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PC_Level4_flav_dll_x64:           PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+PC_Level4_flav_exe:               PE32 executable (GUI) Intel 80386, for MS Windows
+PC_Level4_http_flav_dll:          PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PC_Level4_http_flav_dll_x64:      PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+PortMap_Implant.dll:              PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+PortMap_Lp.dll:                   PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ProcessHide_Implant.dll:          PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ProcessHide_Lp.dll:               PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+processinfo_Implant9x.dll:        PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+processinfo_Implant.dll:          PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ProcessOptions_Implant.dll:       PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+ProcessOptions_Lp.dll:            PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+pwdump_Implant.dll:               PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+pwdump_Lp.dll:                    PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+RunAsChild_Implant.dll:           PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+RunAsChild_Lp.dll:                PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+tdi6.sys:                         PE32 executable (native) Intel 80386, for MS Windows
